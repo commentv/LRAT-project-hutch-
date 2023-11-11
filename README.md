@@ -10,9 +10,9 @@ given in the ```Hutch++_questions.pdf``` file.
 
 # Explanation
 To generate the plots used to answer questions 1, 3 and 4 of the ```Hutch++_questions.pdf``` file and stored in ```/plots```, run their respective matlab code: 
-```Question1.m```, ```Question3.m``` and ```Question4.m```.<br /><br />
+```/src/Question1.m```, ```/src/Question3.m``` and ```/src/Question4.m```.<br /><br />
 Note that the plots were generated using Matlab R2022b and the library "Statistics and Machine Learning Toolbox" is needed.
-Moreover, the plot from ```Question4.m``` answers question 4 by giving an example on how the decay might be slower than $O(\frac{1}{m})$ while respecting the inequalities
+Moreover, the plot from ```/src/Question4.m``` answers question 4 by giving an example on how the decay might be slower than $O(\frac{1}{m})$ while respecting the inequalities
 of Theorem 1 and Theorem 10 of [1].
 
 # References
